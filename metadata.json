@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Hexatech AI Interviewer",
+  "description": "A mock AI interviewer where users can upload their resume, specify job details, and participate in a recorded interview. The app provides AI-generated questions and a detailed performance analysis report.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
